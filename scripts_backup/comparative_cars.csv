@@ -1,421 +1,326 @@
 ,Feature,Car 1,Car 2,Status
-0,Molduras de tubo de escape en cromado negro,N/A,Sólo en paquete,Different
-1,Paquete de fumadores,N/A,62 €,Different
-2,Climatizador de 4 zonas,N/A,861 €,Different
-3,Retrovisores exteriores plegables eléctricamente,De serie,N/A,Different
-4,Interfaz Bluetooth,N/A,De serie,Different
-5,Molduras de entrada con anagrama M iluminado delante y detrás,N/A,De serie,Different
-6,IVA,21 %,21 %,Same
-7,Precio (con descuento y equipamiento seleccionado)80.500 €,Coste opciones seleccionadas: 0 €,N/A,Different
-8,Volante M de cuero,N/A,De serie,Different
-9,Enganche de remolque eléctrico,N/A,1.477 €,Different
-10,Descuento oficial,0 €,0 €,Same
-11,Material del bloque,Aluminio,Aluminio,Same
-12,Apagado y encendido de faros temporizado,De serie,N/A,Different
-13,Asistente de estacionamiento automático,Sólo en paquete,N/A,Different
-14,Peso,1.870 kg,2.335 kg,Different
-15,price,80.500,Precio,Different
-16,Ayuda de aparcamiento lateral,Sólo en paquete,De serie,Different
-17,Pintura metalizada,1.339 €,1.292 €,Different
-18,Retrovisores exteriores con plegado eléctrico,N/A,De serie,Different
-19,Relación de compresión,"10,2 a 1",16 a 1,Different
-20,Ángulo ventral,N/A,"17,9 grados",Different
-21,Control de presión de neumáticos (con indicación para cada neumático),N/A,De serie,Different
-22,"Automatismo de parada y arranque del motor (""Stop/Start"")",Sí,Sí,Same
-23,Llantas delanteras,7.5 x 18,9.5 x 21,Different
-24,Revestimiento interior M Aluminium Rhombicle,De serie,N/A,Different
-25,Preparación para Apple CarPlay,N/A,De serie,Different
-26,Apple CarPlay y Android Auto sin cable,De serie,N/A,Different
-27,Lunas tintadas,De serie,N/A,Different
-28,Reposapiés del conductor y pedales M,De serie,N/A,Different
-29,Función Auto Start Stop,N/A,De serie,Different
-30,Alfombrillas de velours,De serie,N/A,Different
-31,Molduras interiores BMW Individual pintura piano negra,N/A,790 €,Different
-32,Tapicería Individual de cuero Merino ampliado,3.200 €,N/A,Different
-33,"Sonido surround Harman Kardon (464 W, 9 canales, 16 altavoces)",N/A,615 €,Different
-34,Sintonizador de TV Plus,N/A,1.477 €,Different
-35,Alfombrillas de velours delante y detrás,N/A,De serie,Different
-36,Conexiones 4G LTE (tarjeta SIM integrada),N/A,De serie,Different
-37,Número de velocidades,8,8,Same
-38,Altura de vadeo,N/A,500 mm,Different
-39,Tablero de instrumentos BMW Individual revestido de cuero,N/A,1.431 €,Different
-40,Red de sujeción en maletero,De serie,N/A,Different
-41,Pintura Individual,6.270 €,N/A,Different
-42,Servicios conectados,De serie,N/A,Different
-43,Cámara Surround View y Remote 3D View (Parking Assistant Plus),N/A,1.538 €,Different
-44,2 tomas de 12 V en consola central (delante y detrás) y 1 en maletero,N/A,De serie,Different
-45,Maletero con iluminación,De serie,De serie,Same
-46,Asistente de parada de emergencia,Sólo en paquete,N/A,Different
-47,Retrovisores exteriores orientables eléctricamente,De serie,N/A,Different
-48,consumo,"8,1","8,3",Different
-49,Ganchos para bolsas y 4 argollas de amarre en maletero,N/A,De serie,Different
-50,Número de cilindros,6,6,Same
-51,Estructura suspensión trasera,Paralelogramo deformable,Paralelogramo deformable,Same
-52,Ordenador de viaje,De serie,De serie,Same
-53,Freno deportivo M,N/A,De serie,Different
-54,Retrovisor exterior del lado de conductor con función antideslumbramiento,N/A,De serie,Different
-55,Cierre automático Softclosen para las puertas,N/A,800 €,Different
-56,Airbags de cabeza delanteros y traseros,De serie,De serie,Same
-57,BMW Drive Recorder (incluye Eventrecorder y Crashrecorder),N/A,246 €,Different
-58,Aplicación de cristal CraftedClarity para elementos interiores,N/A,923 €,Different
-59,"Llantas de aleación 48 cm (delante 225/40 R19, detrás 255/35 R19) de radio dobles bicolor (estilo 792 M)",2.547 €,N/A,Different
-60,Servofreno de emergencia,De serie,N/A,Different
-61,Diferencial deportivo M,N/A,De serie,Different
-62,Detector de vehículos en ángulo muerto,Sólo en paquete,N/A,Different
-63,Asistente de cambio de carril y de emergencia,N/A,Sólo en paquete,Different
-64,Portabebidas delantero con calefacción y enfriamiento,N/A,308 €,Different
-65,Molduras interiores M de fibra de carbono,677 €,N/A,Different
-66,Control de estabilidad (DSC),De serie,De serie,Same
-67,Fijación de silla infantil en fila posterior,De serie,N/A,Different
-68,Tipo de mando,N/A,Selección,Different
-69,Número de puertas,5,5,Same
-70,Control de tracción,De serie,N/A,Different
-71,Asiento de 2ª fila abatible y divisible 40:20:40,N/A,De serie,Different
-72,Aviso de cinturón no colocado,De serie,De serie,Same
-73,Pintura sólida,N/A,0 €,Different
-74,Sintonizador de TV,N/A,1.415 €,Different
-75,Microfiltro y filtro de carbón activo,N/A,De serie,Different
-76,Llamada de emergencia inteligente incluyendo TeleServices,N/A,De serie,Different
-77,Selección de modo de conducción,De serie,N/A,Different
-78,Precio (con descuento y equipamiento seleccionado)115.700 €,N/A,Coste opciones seleccionadas: 0 €,Different
-79,url,https://www.km77.com/coches/bmw/serie-3/2022/touring/estandar/m340i-xdrive-touring/datos,https://www.km77.com/coches/bmw/x6/2020/estandar/m-performance/x6-m50d/datos,Different
-80,Botón de arranque/parada,N/A,De serie,Different
-81,10 altavoces HiFi (205 W),De serie,N/A,Different
-82,Alerta de cambio involuntario de carril,De serie,N/A,Different
-83,"Llantas de aleación 48 cm (delante 225/40 R19, detrás 255/35 R19) de radio dobles (estilo 791 M)",2.437 €,N/A,Different
-84,Freno de estacionamiento automático,De serie,N/A,Different
-85,Molduras de umbral de puerta M delante,De serie,N/A,Different
-86,Posavasos,De serie,N/A,Different
-87,Función start-stop,De serie,N/A,Different
-88,Conexiones USB,De serie,N/A,Different
-89,Asientos delanteros deportivos,De serie,De serie,Same
-90,Asientos delanteros con ajuste de altura,De serie,De serie,Same
-91,Advertencia de salida de trayecto,N/A,Sólo en paquete,Different
-92,Faros LED autoadaptables,N/A,De serie,Different
-93,Luz láser BMW,N/A,1.846 €,Different
-94,Asientos delanteros con ajuste lumbar,Sólo en paquete,N/A,Different
-95,Suspensión M adaptativa,N/A,De serie,Different
-96,Control de crucero activo con función Stop&Go,N/A,984 €,Different
-97,Cierre automático al arrancar,N/A,De serie,Different
-98,Limpiaparabrisas automático,De serie,De serie,Same
-99,Tipo de mecanismo,Epicicloidal,Epicicloidal,Same
-100,Altura,1.440 mm,1.696 mm,Different
-101,end_year,2024,2020,Different
-102,Limpialuneta,De serie,N/A,Different
-103,Speed Limit Assist (adapta automáticamente la velocidad en función del límite legal),Sólo en paquete,N/A,Different
-104,Advertencia de tráfico cruzado detrás y prevención de colisión trasera,N/A,Sólo en paquete,Different
-105,Protección activa (activa medidas de protección para pasajeros en situaciones críticas),N/A,677 €,Different
-106,Control automático de recirculación de aire (AUC),N/A,De serie,Different
-107,Función de memoria en asiento del conductor,N/A,De serie,Different
-108,Recuperación de la energía de frenado,De serie,De serie,Same
-109,longitud,4.714,4.935,Different
-110,Chasis M adaptivo Professional (estabilización activa),N/A,4.430 €,Different
-111,Asientos de 2ª fila con calefacción,N/A,984 €,Different
-112,Factor de resistencia,"0,65","1,02",Different
-113,Molduras interiores Individual piano black,677 €,N/A,Different
-114,Tiradores exteriores en color carrocería,De serie,N/A,Different
-115,"Llantas de aleación 56 cm (delante 275/35 R22, detrás 315/30 R22) de radios dobles (estilo 742 M) bicolor",N/A,800 €,Different
-116,Par máximo,500 Nm,760 Nm,Different
-117,Revoluciones potencia máxima,5.500 - 6.500 rpm,4.400 rpm,Different
-118,Cinturones de seguridad M,Sólo en paquete,369 €,Different
-119,Molduras exteriores M en negro brillo Shadow Line,De serie,N/A,Different
-120,Tapicería combinación Alcantara/Sensatec,De serie,N/A,Different
-121,Llamada de emergencia,De serie,N/A,Different
-122,Elevalunas eléctricos traseros,N/A,De serie,Different
-123,Pintura Riverside Blau metalizado (solo con paq. deportivo M),N/A,1.036 €,Different
-124,10 altavoces Hi-Fi (250 W),N/A,De serie,Different
-125,Asistente de guiado de carril y de dirección,N/A,Sólo en paquete,Different
-126,Alarma antirrobo,616 €,De serie,Different
-127,Airbag frontal conductor,De serie,De serie,Same
-128,Redes en respaldo de asientos delanteros,De serie,N/A,Different
-129,Desbloqueo eléctrico del respaldo trasero,Sólo en paquete,N/A,Different
-130,Luz interior en zona de pies,De serie,N/A,Different
-131,Acceso sin llave,800 €,N/A,Different
-132,Bocina de doble tono,N/A,De serie,Different
-133,2 portabebidas delante y 2 en reposabrazos trasero,N/A,De serie,Different
-134,Suspensión adaptativa M,615 €,N/A,Different
-135,Spoiler trasero M,De serie,N/A,Different
-136,"Llantas de aleación 53 cm (delante 275/40 R21, detrás 315/35 R21) de radios en Y (estilo 741 M) bicolor",N/A,De serie,Different
-137,"Climatizador de 2,5 zonas",N/A,De serie,Different
-138,"Interruptor de confort de conducción (modos Comfort, ECO PRO, Sport, adaptativo)",N/A,De serie,Different
-139,Vía trasera,1.567 mm,1.689 mm,Different
-140,Iluminación en manillas exteriores de puertas,N/A,De serie,Different
-141,Retrovisores exteriores con ajuste eléctrico,N/A,De serie,Different
-142,Aceleración 0-100 km/h,"4,6 s","5,2 s",Different
-143,Luneta practicable en portón trasero,De serie,N/A,Different
-144,Caja de cambios,Automático,Automático,Same
-145,Control de presión de neumáticos,De serie,N/A,Different
-146,Revestimiento de madera noble,N/A,554 €,Different
-147,2 preparativos para soporte multifuncional en respaldo de asientos delanteros,N/A,Sólo en paquete,Different
-148,Bandeja cubremaletero,De serie,N/A,Different
-149,Ángulo de entrada,N/A,"25,1 grados",Different
-150,Muelle suspensión trasera,Resorte helicoidal,Resorte helicoidal,Same
-151,Red de almacenamiento sobre tapa izquierda de maletero y red de colocación flexible,N/A,Sólo en paquete,Different
-152,Carrera,"94,6 mm",90 mm,Different
-153,Navegador,De serie,N/A,Different
-154,Elevalunas eléctricos delanteros,N/A,De serie,Different
-155,Volante con ajuste vertical,De serie,De serie,Same
-156,Luces traseras LED,De serie,N/A,Different
-157,Techo de cristal panorámico Sky Lounge,N/A,3.446 €,Different
-158,Apoyabrazos central delantero,De serie,N/A,Different
-159,"Llantas de aleación 56 cm (delante 275/35 R22, detrás 315/30 R22) de radios en V (estilo 747 M) bicolor",N/A,738 €,Different
-160,Asientos de comodidad aumentada,N/A,Sólo en paquete,Different
-161,Revoluciones par máximo,1.900 - 5.000 rpm,2.000 - 3.000 rpm,Different
-162,Iluminación del vano de los pies delante,N/A,De serie,Different
-163,Pintura Alpinweiss,0 €,N/A,Different
-164,Pinzas de freno en azul con anagrama M,N/A,De serie,Different
-165,Neumáticos con funcionamiento en caso de avería,N/A,0 €,Different
-166,Equipo reparapinchazos,De serie,N/A,Different
-167,Tarifa de,11/2023,07/2020,Different
-168,Tipo de frenos delanteros,Disco ventilado,Disco ventilado,Same
-169,"Llantas de aleación 56 cm (delante 275/35 R22, detrás 315/30 R22) de radios en V (estilo 746 I)",N/A,938 €,Different
-170,Luz de lectura delantera,De serie,De serie,Same
-171,Superficie frontal,"2,23 m²","2,83 m²",Different
-172,"BMW Live Cockpit Professional (cuadro de instrumentos digital de 31,2 cm)",N/A,De serie,Different
-173,Filtro de habitáculo,De serie,N/A,Different
-174,Retrovisor exterior en lado conductor con antideslumbrante automático,De serie,N/A,Different
-175,"BMW Display Key (sustituye a 1 llave del vehículo, pantalla color con panel táctil)",N/A,431 €,Different
-176,Punto de acceso Wi-Fi,N/A,0 €,Different
-177,Revestimiento de madera noble BMW Individual,N/A,790 €,Different
-178,"Llantas de aleación 48 cm (delante 225/40 R19, detrás 255/35 R19) de radio dobles bicolor (estilo 793 I)",Sólo en paquete,N/A,Different
-179,Carriles de carga,Sólo en paquete,N/A,Different
-180,Velocidad máxima,250 km/h,250 km/h,Same
-181,Guarnecido interior del techo BMW Individual antracita,N/A,De serie,Different
-182,Toma de 12 voltios,De serie,N/A,Different
-183,Propósito,Generar corriente eléctrica,Impulsar el vehículo,Different
-184,Airbag frontal pasajero,De serie,De serie,Same
-185,Botiquín de primeros auxilios,De serie,N/A,Different
-186,Indicador de desgaste de pastillas de freno,N/A,De serie,Different
-187,Acristalamiento de protección solar (tintado de mayor intensidad a partir del montante B),N/A,615 €,Different
-188,Lunas traseras sobretintadas,554 €,N/A,Different
-189,Luces automáticas,De serie,De serie,Same
-190,Actualización de software online,De serie,N/A,Different
-191,Suspensión M Sport,De serie,N/A,Different
-192,Capacidad,"0,53 kWh",N/A,Different
-193,Asistente de actividad del conductor,N/A,De serie,Different
-194,Pintura metalizada Dravit Grey o Tanzanite Blue,2.457 €,N/A,Different
-195,Asistente de arranque en pendiente (Automatic Hold Function),N/A,De serie,Different
-196,start_year,2022,2019,Different
-197,Mandos multifunción en volante,De serie,De serie,Same
-198,"Sonido envolvente Bowers & Wilkins Diamond (1508 W, 10 canales, 20 altavoces) (solo con techo panorámico)",N/A,6.153 €,Different
-199,Conexión Bluetooth para teléfono móvil,De serie,N/A,Different
-200,Material de la culata,Aluminio,Aluminio,Same
-201,Gancho multifunción en maletero,De serie,N/A,Different
-202,Shadow Line de brillo intenso BMW Individual,N/A,De serie,Different
-203,Accionamiento automático del portón trasero,De serie,N/A,Different
-204,Función de memoria para retrovisores exteriores,De serie,N/A,Different
-205,Juego para reparación de pinchazos,N/A,62 €,Different
-206,Molduras interiores Aluminium Tetragon,N/A,De serie,Different
-207,Volante con calefacción,333 €,Sólo en paquete,Different
-208,Servicios ConnectedDrive (incluye BMW Connected +),N/A,De serie,Different
-209,Tipo de Embrague,Convertidor de par,Convertidor de par,Same
-210,Cámara Surround View,Sólo en paquete,N/A,Different
-211,Tipo de frenos traseros,Disco ventilado,Disco ventilado,Same
-212,Radio,N/A,De serie,Different
-213,Luz de ambiente,N/A,De serie,Different
-214,Asistente de cambio involuntario de carril,De serie,N/A,Different
-215,Disposición de los cilindros,En línea,En línea,Same
-216,Calefacción auxiliar,1.723 €,2.030 €,Different
-217,Disco duro con memoria de 32 GB para audio,N/A,De serie,Different
-218,Reposacabezas traseros abatibles,De serie,N/A,Different
-219,Neumáticos delanteros,225/45 R18 95Y,275/40 R21 107Y,Different
-220,Altura libre,N/A,216 mm,Different
-221,Luces traseras en técnica LED,N/A,De serie,Different
-222,Rueda de repuesto de emergencia,N/A,431 €,Different
-223,Elevalunas electricos traseros,De serie,N/A,Different
-224,Reconocimiento de voz,De serie,N/A,Different
-225,Telefonía con carga inalámbrica,N/A,615 €,Different
-226,Tablero de instrumentos en cuero Individual (solo con tapicería de cuero),1.907 €,N/A,Different
-227,Función Follow-me-home,N/A,De serie,Different
-228,Pedales deportivos M,N/A,De serie,Different
-229,Filtro de partículas,De serie,De serie,Same
-230,Asientos delanteros con ventilación activa (solo con asientos delanteros de confort),N/A,1.046 €,Different
-231,Apoyabrazos central trasero,De serie,N/A,Different
-232,Tipo,Acumulador de iones de litio,N/A,Different
-233,Función de memoria para asiento del conductor,De serie,N/A,Different
-234,Sintonizador DAB,N/A,492 €,Different
-235,Control de crucero con función de frenado,De serie,De serie,Same
-236,Control de tracción (DTC),N/A,De serie,Different
-237,Luz de lectura trasera,De serie,De serie,Same
-238,Llantas Traseras,8.5 x 18,10.5 x 21,Different
-239,Airbags laterales delanteros,De serie,De serie,Same
-240,Tapicería Individual de cuero Merino completo,5.353 €,N/A,Different
-241,Bandeja para Wireless Charging,Sólo en paquete,N/A,Different
-242,Cierre centralizado,De serie,De serie,Same
-243,Tracción,Total,Total,Same
-244,Reposabrazos con calefacción en puertas,N/A,Sólo en paquete,Different
-245,Asientos deportivos M,N/A,Sólo en paquete,Different
-246,Combustible,Gasolina,Gasóleo,Different
-247,Situación,Delantero longitudinal,Delantero longitudinal,Same
-248,name,M340i xDrive Touring,M50d,Different
-249,Cámara de marcha atrás,N/A,De serie,Different
-250,Dirección activa integral,N/A,1.538 €,Different
-251,Levas de cambio en el volante (Steptronic Sport),N/A,De serie,Different
-252,Head-Up Display,1.415 €,1.784 €,Different
-253,Speed Limit Assist automático (asume una limitación de velocidad de manera automática),N/A,Sólo en paquete,Different
-254,Asientos delanteros con calefacción,468 €,De serie,Different
-255,Normativa de emisiones,Euro 6,Euro 6,Same
-256,Asiento trasero abatible 40/20/40,De serie,N/A,Different
-257,Dirección deportiva variable con Servotronic,De serie,N/A,Different
-258,Alerta de fatiga del conductor,De serie,N/A,Different
-259,Línea Exterior BMW Individual Aluminium satinado,N/A,0 €,Different
-260,Paquete aerodinámico M,De serie,De serie,Same
-261,Elevalunas electricos delanteros,De serie,N/A,Different
-262,Arranque sin llave,De serie,N/A,Different
-263,Asientos delanteros con ajuste eléctrico,De serie,De serie,Same
-264,Barra estabilizadora delantera,Sí,Sí,Same
-265,Carriles longitudinales M para baca en negro brillo,De serie,N/A,Different
-266,Control de crucero activo con Stop&Go,800 €,N/A,Different
-267,Parasoles con espejos de cortesía iluminados,De serie,De serie,Same
-268,Control por voz,N/A,De serie,Different
-269,Entretenimiento en la parte trasera Professional,N/A,3.200 €,Different
-270,Portón trasero eléctrico,N/A,De serie,Different
-271,Luces de freno dinámicas,N/A,De serie,Different
-272,Advertencia de choque y de personas con función de frenado City,N/A,Sólo en paquete,Different
-273,Volante M Sport de cuero,De serie,N/A,Different
-274,Fijación ISOFIX para asientos infantiles incluido Top Tether en asientos exteriores de 2ª fila,N/A,De serie,Different
-275,Retrovisores exteriores con calefacción,De serie,De serie,Same
-276,Ángulo de salida,N/A,"21,7 grados",Different
-277,Levas de cambio en volante,De serie,N/A,Different
-278,Reposacabezas delanteros regulables en altura y profundidad,N/A,De serie,Different
-279,Molduras interiores en Carbon Fibre,N/A,1.477 €,Different
-280,Muelle suspensión delantera,Resorte helicoidal,Resorte helicoidal,Same
-281,Fondo del maletero con bandeja portaobjetos,N/A,De serie,Different
-282,Cristales acústicos (ventanillas delanteras compuestas y reforzadas) (solo con acristalamiento de protección solar),N/A,738 €,Different
-283,Red de separación del maletero,N/A,179 €,Different
-284,Cristales de confort acústico,246 €,N/A,Different
-285,Persiana cobertera en maletero,N/A,De serie,Different
-286,Luz de entorno en retrovisores exteriores,De serie,N/A,Different
-287,Tensión nominal,48 V,N/A,Different
-288,Controlador iDrive con teclas de selección directa,N/A,De serie,Different
-289,Número de plazas,5,5,Same
-290,"Llantas de aleación 46 cm (delante 225/45 R18, detrás 255/40 R18) de radios dobles bicolor (estilo 848 M)",De serie,N/A,Different
-291,Neumáticos traseros,255/40 R18 99Y,315/35 R21 111Y,Different
-292,Servicios remotos,De serie,N/A,Different
-293,Guarnecido interior del techo BMW Individual de Alcantara antracita,N/A,1.184 €,Different
-294,Retrovisores exteriores M,De serie,N/A,Different
-295,Emisiones de CO₂ WLTP,182 gr/km,217 gr/km,Different
-296,Retrovisor interior con antideslumbramiento automático,De serie,N/A,Different
-297,Radio digital,De serie,N/A,Different
-298,Persiana solar en ventanillas laterales traseras,N/A,369 €,Different
-299,Aviso de colisión frontal con función de frenado por radar,Sólo en paquete,N/A,Different
-300,Night Vision con reconocimiento de personas,N/A,2.584 €,Different
-301,Vía delantera,1.583 mm,1.684 mm,Different
-302,Dirección asistida Servotronic,N/A,De serie,Different
-303,Freno de estacionamiento electromecánico,N/A,De serie,Different
-304,2 USB tipo C con carga de 3 A en respaldo de asientos delanteros,N/A,Sólo en paquete,Different
-305,Concierge Services (información telefónica del BMW Call Center),N/A,De serie,Different
-306,Frenos M Sport,De serie,N/A,Different
-307,Estructura suspensión delantera,Tipo McPherson,Paralelogramo deformable,Different
-308,Reposabrazos en consola central con compartimento,N/A,De serie,Different
-309,Guantera con iluminación,De serie,De serie,Same
-310,Carcasas de los retrovisores exteriores en Ceriumgrau,N/A,De serie,Different
-311,Tracción total xDrive,De serie,De serie,Same
-312,Impuesto de matriculación,"9,75 %","9,75 %",Same
-313,Asientos delanteros M Sport,Sólo en paquete,N/A,Different
-314,Luneta térmica,De serie,De serie,Same
-315,Molduras exteriores M en negro brillo Shadow Line con contenido ampliado,Sólo en paquete,N/A,Different
-316,Remote Services (uso de funciones a distancia),N/A,De serie,Different
-317,Techo de cristal panorámico,1.969 €,2.338 €,Different
-318,Molduras interiores de aluminio efecto rejilla,0 €,N/A,Different
-319,Ubicación,Delantera,N/A,Different
-320,Recirculación automática del aire interior,De serie,N/A,Different
-321,Marco y varillas verticales de la parrilla en negro de brillo intenso,N/A,Sólo en paquete,Different
-322,Coeficiente Cx,"0,29","0,36",Different
-323,maletero,500,580,Different
-324,Asientos delanteros con soporte lumbar,N/A,332 €,Different
-325,Asistente de luz de cruce / carretera,234 €,N/A,Different
-326,Interfaz WiFi,De serie,N/A,Different
-327,Precio sin impuestos,61.568 €,88.489 €,Different
-328,Escape deportivo M,N/A,De serie,Different
-329,Cilindrada,2.998 cm³,2.993 cm³,Different
-330,Tres reposacabezas traseros,De serie,N/A,Different
-331,Barra estabilizadora trasera,Sí,Sí,Same
-332,Alimentación,Inyección directa. Turbo. Intercooler,Inyección directa por conducto común. Admisión Variable. Turbo. Geometría variable. Intercooler,Different
-333,Desactivación de airbag del pasajero delantero,De serie,De serie,Same
-334,Asientos delanteros con función masaje (solo con asientos de confort),N/A,1.354 €,Different
-335,Luz diurna,De serie,N/A,Different
-336,Limitador de velocidad,De serie,N/A,Different
-337,Aviso de tráfico trasero y aviso de colisión por alcance,Sólo en paquete,N/A,Different
-338,"Pantalla central táctil de 37,8 cm (14,9"")",De serie,N/A,Different
-339,Aparcamiento asistido,N/A,De serie,Different
-340,Conexión USB con carga en zona de portabebidas y compartimento de reposabrazos central,N/A,De serie,Different
-341,Volante con ajuste eléctrico,N/A,De serie,Different
-342,Terminales de escape con embellecedores en Ceriumgrau,N/A,De serie,Different
-343,Tipo de Carrocería,Turismo familiar,Todoterreno,Different
-344,Diámetro,82 mm,84 mm,Different
-345,Carriles longitudinales para la baca Aluminium satinado,N/A,492 €,Different
-346,Airbag de rodilla,N/A,De serie,Different
-347,Luz interior ambiental,De serie,N/A,Different
-348,Aviso de colisión frontal con intervención de frenos,De serie,N/A,Different
-349,potencia,374,400,Different
-350,Reconocimiento de señales de tráfico (Speed Limit Info),De serie,N/A,Different
-351,Cortinillas en lunas laterales traseras,332 €,N/A,Different
-352,"Sonido Surround Harman/Kardon (464 W, 9 canales, 16 altavoces)",640 €,N/A,Different
-353,Faros antiniebla LED,N/A,De serie,Different
-354,Acristalamiento de protección solar y térmica,N/A,De serie,Different
-355,Control de distancia de aparcamiento trasero,N/A,De serie,Different
-356,Elementos exteriores en Aluminium satinado,N/A,De serie,Different
-357,Mando de apertura a distancia,De serie,De serie,Same
-358,Tornillos antirrobo,De serie,De serie,Same
-359,Display Key,308 €,N/A,Different
-360,Acceso confort,N/A,1.108 €,Different
-361,Preparación para lector de CD externo,N/A,62 €,Different
-362,Longitud,4.714 mm,4.935 mm,Different
-363,"Neumáticos runflat (con llantas de 19"")",0 €,N/A,Different
-364,Volante con ajuste horizontal,De serie,De serie,Same
-365,Active Guard Plus (advertencia de colisión frontal con intervención de frenos incluso ante ciclistas y función de frenado a cualquier velocidad),N/A,De serie,Different
-366,Función memoria en asientos delanteros,N/A,Sólo en paquete,Different
-367,Pintura Ametrin o Tansanitblau metalizado (solo con paq. deportivo M),N/A,2.270 €,Different
-368,Faros LED (luz de cruce y carretera),N/A,De serie,Different
-369,Equipamiento ampliado de cuero BMW Individual Merino,N/A,1.234 €,Different
-370,Tapicería de cuero Vernasca,1.784 €,De serie,Different
-371,Aire acondicionado,De serie,De serie,Same
-372,Acabados galvanizados en elementos interiores,123 €,N/A,Different
-373,Navegador con información de tráfico en tiempo real y On-Street Parking Information,N/A,De serie,Different
-374,Carcasas de los retrovisores exteriores M carbono,N/A,1.108 €,Different
-375,Ayuda de arranque en cuesta,De serie,N/A,Different
-376,Techo interior M en color antracita,De serie,N/A,Different
-377,Control por gestos,N/A,369 €,Different
-378,Advertencia de cambio de carril,N/A,Sólo en paquete,Different
-379,Ayuda de aparcamiento trasero,De serie,N/A,Different
-380,Faros LED,De serie,N/A,Different
-381,Asistente de dirección y guiado de carril,Sólo en paquete,N/A,Different
-382,"Pantalla táctil de 31,2 cm (12,3"")",N/A,De serie,Different
-383,Enganche eléctrico para remolque,1.354 €,N/A,Different
-384,Bolsas en respaldo de asientos delanteros,N/A,De serie,Different
-385,Batalla,2.851 mm,2.975 mm,Different
-386,Sensor de aceite para nivel y calidad,N/A,De serie,Different
-387,Luz de acceso delante y detrás,N/A,De serie,Different
-388,Faros Matrix LED,Sólo en paquete,N/A,Different
-389,Cierre de seguridad para niños en puertas traseras,De serie,De serie,Same
-390,Cámara de visión trasera,Sólo en paquete,N/A,Different
-391,Tablero de instrumentos en Sensatec,616 €,De serie,Different
-392,"Cuadro de instrumentos digital de 31,2 cm (12,3"")",De serie,N/A,Different
-393,Spoiler trasero carbono M,N/A,1.206 €,Different
-394,Paquete de aire ambiente (ionización de aire y aromas de fragancia),N/A,431 €,Different
-395,Climatizador de 3 zonas,De serie,N/A,Different
-396,Pinzas de freno en rojo brillante,Sólo en paquete,N/A,Different
-397,Faros adaptativos,Sólo en paquete,N/A,Different
-398,Diferencial trasero M Sport,De serie,N/A,Different
-399,Distribución de asientos,2 + 3,2 + 3,Same
-400,Tiradores exteriores iluminados,De serie,N/A,Different
-401,Precio (con descuento y equipamiento seleccionado),80.500 €,115.700 €,Different
-402,Faldones laterales en color carrocería,De serie,N/A,Different
-403,Asistente de luz de carretera,N/A,De serie,Different
-404,Eyectores de lavaparabrisas con calefacción,N/A,De serie,Different
-405,Distintivo ambiental DGT,ECO,C,Different
-406,Antibloqueo de frenos (ABS),De serie,De serie,Same
-407,Rieles de deslizamiento y antideslizamiento automatizados,N/A,Sólo en paquete,Different
-408,Reposabrazos central trasero con compartimento,N/A,De serie,Different
-409,Control de descenso de pendientes,N/A,De serie,Different
-410,Molduras interiores de madera,185 €,N/A,Different
-411,Ayuda de aparcamiento delantero,De serie,N/A,Different
-412,In-Car Experiences (cuidado del bienestar del conductor),N/A,De serie,Different
-413,Paragolpes en color carrocería,De serie,N/A,Different
-414,Control de distancia de aparcamiento delantero,N/A,De serie,Different
-415,Carriles longitudinales para la baca BMW Individual Shadow Line de brillo (solo con Shadow Line),N/A,395 €,Different
-416,Anchura,1.827 mm,2.004 mm,Different
-417,Guantera con llave,N/A,De serie,Different
-418,Potencia máxima,11 CV / 8 kW,400 CV / 294 kW,Different
-419,Speed Limit Info (indicación de límites de velocidad y de prohibición de adelantamiento),N/A,Sólo en paquete,Different
+0,Kit de movilidad M en maletero (i/ compresor de 12 V y material antipinchazo),De serie,N/A,Different
+1,Persianas solares en luneta trasera (eléctrica) y ventanillas laterales traseras,605 €,N/A,Different
+2,Manillas de puertas en color carrocería,De serie,N/A,Different
+3,Control de crucero,De serie,N/A,Different
+4,Cristales laminados de seguridad de confort climático,1.430 €,N/A,Different
+5,Mando a distancia universal (Home link),N/A,290 €,Different
+6,Volante con ajuste horizontal,N/A,De serie,Different
+7,Control electrónico de la amortiguación (EDC),De serie,N/A,Different
+8,Llantas delanteras,8.5 x 19,8.5 x 18,Different
+9,Reproductor de DVD,N/A,Sólo en paquete,Different
+10,Asistente de aparcamiento park assist,N/A,Sólo en paquete,Different
+11,Cámara de visión trasera (sólo con audi parking system plus o park assist),N/A,550 €,Different
+12,Asistente de arranque,De serie,N/A,Different
+13,Radio digital DAB,N/A,390 €,Different
+14,Indicador de temperatura exterior,De serie,N/A,Different
+15,Climatizador con volumen ampliado (bizona),De serie,N/A,Different
+16,Altura,1.469 mm,1.345 mm,Different
+17,Dirección progresiva (desmultiplicación variable),N/A,De serie,Different
+18,Estructura suspensión trasera,Paralelogramo deformable,Paralelogramo deformable,Same
+19,Número de plazas,5,2,Different
+20,Tracción,Trasera,Total,Different
+21,Asientos delanteros con ajuste de altura,N/A,De serie,Different
+22,Parabrisas antitérmico,N/A,De serie,Different
+23,Superficie frontal,"2,26 m²","2,09 m²",Different
+24,Llantas de aleación M 19 (del. 255/40 tras. 285/35) de radios radiales (estilo 166 M),De serie,N/A,Different
+25,Guarnecido interior del techo en Alcantara antracita,1.728 €,N/A,Different
+26,"Audi sound system (9 altavoces, 155 W)",N/A,De serie,Different
+27,Pintura metalizada y efecto perla,N/A,845 €,Different
+28,Airbags laterales delanteros,N/A,De serie,Different
+29,Precio (con descuento y equipamiento seleccionado)64.670 €,N/A,Coste opciones seleccionadas: 0 €,Different
+30,Línea cromada exterior,0 €,N/A,Different
+31,Retrovisor interior con antideslumbramiento automático,N/A,Sólo en paquete,Different
+32,Caja de cambios secuencial SMG Drivelogic,De serie,N/A,Different
+33,Antenas integradas en luneta trasera,De serie,N/A,Different
+34,Pintura metalizada,De serie,N/A,Different
+35,Barra estabilizadora trasera,Sí,Sí,Same
+36,Llantas de aleación de 48 cm - 9 x 19 (245/35) de 5 brazos facetados (CV9),N/A,1.320 €,Different
+37,Volante regulable en altura,De serie,N/A,Different
+38,Alfombrillas de velours,De serie,N/A,Different
+39,Sensores de desgaste de pastillas de frenos,De serie,N/A,Different
+40,Espejos exteriores eléctricos,De serie,N/A,Different
+41,Llantas de aleación de 48 cm - 9 x 19 (245/35) diseño Blade de 5 radios (45V),N/A,1.830 €,Different
+42,Navegación Professional,3.096 €,N/A,Different
+43,Revestimientos interiores Alu Shadow cepillado,De serie,N/A,Different
+44,Neumáticos traseros,285/35 R19 Z,245/40 R18,Different
+45,Volante regulable en longitud,De serie,N/A,Different
+46,Retrovisores exteriores con calefacción,N/A,155 €,Different
+47,"Automatismo de parada y arranque del motor (""Stop/Start"")",No,Sí,Different
+48,Audi drive select (distintas configuraciones del comportamiento del vehículo),N/A,De serie,Different
+49,name,M5,TTS Roadster 2.0 TFSI 228 kW (310 CV) quattro S tronic 6 vel.,Different
+50,Luces de salida en puertas delanteras,De serie,N/A,Different
+51,Alerón trasero abatible automáticamente,N/A,De serie,Different
+52,Pintura Gris Daytona o Audi Exclusive,N/A,2.930 €,Different
+53,Paquete brillante en negro Audi exclusive,N/A,610 €,Different
+54,Disposición de los cilindros,En V,En línea,Different
+55,Molduras interiores aluminio rectificado de precisión,411 €,N/A,Different
+56,Bolsa para esquíes,Sólo en paquete,N/A,Different
+57,Lavafaros,De serie,355 €,Different
+58,longitud,4.855,4.191,Different
+59,Levas de cambio S tronic en volante,N/A,De serie,Different
+60,Reglaje eléctrico de los asientos delanteros con memoria en lado conductor,De serie,N/A,Different
+61,Pintura blanco Ibis,N/A,260 €,Different
+62,Control distancia aparcamiento (PDC) delantero,De serie,N/A,Different
+63,Triángulos para señalización de emergencia,N/A,De serie,Different
+64,Tapicería S line en cuero Napa,N/A,590 €,Different
+65,Elevalunas electricos traseros,De serie,N/A,Different
+66,Paquete iluminación interior LED,N/A,De serie,Different
+67,Capó activo (protección de los peatones),N/A,De serie,Different
+68,Llantas de aleación de 48 cm - 9 x 19 (245/35) diseño turbina de 5 brazos (CW0),N/A,1.830 €,Different
+69,Control de velocidad (Tempomat),N/A,365 €,Different
+70,Precio (con descuento y equipamiento seleccionado)104.400 €,Coste opciones seleccionadas: 0 €,N/A,Different
+71,Conexión AUX In,De serie,N/A,Different
+72,Alarma antirrobo,De serie,490 €,Different
+73,Combustible,Gasolina,Gasolina,Same
+74,Asientos delanteros ventilados,998 €,N/A,Different
+75,Audi parking system trasero,N/A,550 €,Different
+76,Muelle suspensión trasera,Resorte helicoidal,Resorte helicoidal,Same
+77,Control por voz,537 €,Sólo en paquete,Different
+78,Revestimiento de madera noble,678 €,N/A,Different
+79,Ajuste eléctrico del volante,De serie,N/A,Different
+80,Distintivo ambiental DGT,C,C,Same
+81,Diámetro de frenos traseros,370 mm,310 mm,Different
+82,potencia,507,310,Different
+83,Luces del vano de pies delante,De serie,N/A,Different
+84,Set de reparación de neumáticos,N/A,De serie,Different
+85,Desactivación manual airbag frontal pasajero,Sólo en paquete,N/A,Different
+86,Radio CD Business con MP3,De serie,N/A,Different
+87,Situación,Delantero longitudinal,Delantero transversal,Different
+88,Control de estabilidad (DSC),De serie,N/A,Different
+89,Retrovisores exteriores con plegado eléctrico,Sólo en paquete,N/A,Different
+90,Retrovisores exteriores abatibles eléctricamente,N/A,Sólo en paquete,Different
+91,Impuesto de matriculación,"14,75 %","4,75 %",Different
+92,Gato para elevación del vehículo,N/A,0 €,Different
+93,3 reposacabezas traseros,De serie,N/A,Different
+94,Material de la culata,Aluminio,Aluminio,Same
+95,Normativa de emisiones,N/A,Euro 6,Different
+96,Tarifa de,10/2009,05/2018,Different
+97,Reposacabezas delanteros activos,Sólo en paquete,N/A,Different
+98,Acristalamiento de protección solar (ventanillas laterales y luneta traseras),420 €,N/A,Different
+99,maletero,500,280,Different
+100,Conexión Bluetooth para telefóno móvil,N/A,Sólo en paquete,Different
+101,Tornillos antirrobo,N/A,De serie,Different
+102,"Audi virtual cockpit (panel de instrumentos digital TFT de 31,2 cm)",N/A,De serie,Different
+103,"Bang & Olufsen sound system (12 altavoces, 14 canales, 680 W)",N/A,755 €,Different
+104,Relación de compresión,12 a 1,"9,3 a 1",Different
+105,Elevalunas electricos delanteros,De serie,N/A,Different
+106,Paragolpes en color carrocería,De serie,N/A,Different
+107,Paquete fumador,N/A,35 €,Different
+108,Asistente de luz de carretera,185 €,N/A,Different
+109,Indicador de pérdida de presión en neumáticos,De serie,N/A,Different
+110,Levas de cambio SMG en volante,De serie,N/A,Different
+111,Función de memoria en asiento acompañante,Sólo en paquete,N/A,Different
+112,Longitud,4.855 mm,4.191 mm,Different
+113,Sensor de ocupación sólo para asiento acompañante,De serie,N/A,Different
+114,Dirección asistida Servotronic,De serie,N/A,Different
+115,Doble salida redonda del silenciador (a izquierda y derecha),De serie,N/A,Different
+116,Spoiler trasero M,0 €,N/A,Different
+117,Tipo de frenos traseros,Disco ventilado,Disco,Different
+118,Cinturones de seguridad delanteros con limitador de fuerza y tensor,De serie,N/A,Different
+119,Barra estabilizadora delantera,Sí,Sí,Same
+120,Guarnecido interior de techo en antracita,De serie,N/A,Different
+121,Asistente de cambio de carril (side assist),N/A,675 €,Different
+122,Descuento oficial,0 €,0 €,Same
+123,Regulación de altura de faros,De serie,N/A,Different
+124,Cierre centralizado,De serie,De serie,Same
+125,Llantas de aleación de 48 cm - 9 x 19 (245/35) de 5 radios (45U),N/A,1.465 €,Different
+126,Aviso de límite de velocidad por reconocimiento de señales (solo con MMI navegación plus),N/A,185 €,Different
+127,Anchura,1.846 mm,1.832 mm,Different
+128,Interfaz para localización de vehículos,N/A,135 €,Different
+129,Faros de xenón plus,N/A,De serie,Different
+130,Pilotos traseros Matrix OLED,N/A,1.015 €,Different
+131,Asientos delanteros con regulación lumbar eléctrica,N/A,De serie,Different
+132,Tapicería S line en Alcantara / cuero,N/A,De serie,Different
+133,Retrovisor interior con antideslumbramiento aut.,260 €,N/A,Different
+134,Memoria para música de 10 GB,N/A,Sólo en paquete,Different
+135,Preparación para intercambiador de CD,85 €,N/A,Different
+136,Intercambiador de 6 CD,529 €,N/A,Different
+137,Volante multifuncional,De serie,N/A,Different
+138,Asientos delanteros deportivos S,N/A,De serie,Different
+139,Preparación para DVD en parte trasera,111 €,N/A,Different
+140,Llantas Traseras,9.5 x 19,8.5 x 18,Different
+141,"Tapicería de cuero ""Merino"" ampliado",De serie,N/A,Different
+142,Audio BMW Individual High End (i/ amplificador digital y 16 altavoces),2.588 €,N/A,Different
+143,Potencia máxima,507 CV / 373 kW,310 CV / 228 kW,Different
+144,Control de estabilidad (ESC),N/A,De serie,Different
+145,Indicador de presión de neumáticos,N/A,De serie,Different
+146,Retrovisores exteriores en negro brillante (solo con Paquete brillante en negro Audi exclusive),N/A,130 €,Different
+147,Número de puertas,4,2,Different
+148,Pintura metalizada Azul Ara,N/A,1.220 €,Different
+149,Bloqueo M variable del diferencial,De serie,N/A,Different
+150,MMI navegación plus,N/A,Sólo en paquete,Different
+151,Diámetro,92 mm,"82,5 mm",Different
+152,Distribución de asientos,2 + 3,2,Different
+153,Respaldo regulable en anchura para conductor y acompañante,0 €,N/A,Different
+154,Iluminación interior de encendido y apagado progresivos,De serie,N/A,Different
+155,Distribución electrónica de la fuerza de frenado (EBV),N/A,De serie,Different
+156,consumo,"14,4","6,9",Different
+157,Inserciones en negro piano en la consola central y en la puerta,N/A,475 €,Different
+158,Diámetro de frenos delanteros,374 mm,338 mm,Different
+159,Tracción permanente quattro,N/A,De serie,Different
+160,Persiana solar eléctrica en luneta trasera,469 €,N/A,Different
+161,2 luces de lectura traseras,De serie,N/A,Different
+162,Asistente de mantenimiento de carril (active lane assist),N/A,De serie,Different
+163,Velocidad máxima,250 km/h,250 km/h,Same
+164,Volante con ajuste vertical,N/A,De serie,Different
+165,Asientos delanteros con soporte lumbar,443 €,N/A,Different
+166,Llantas de aleación de 51 cm - 9 x 20 (255/30) de 10 radios en Y (CE5),N/A,2.320 €,Different
+167,Asistente a la frenada de emergencia (SAFE) y frenado anti-colisiones múltiples,N/A,De serie,Different
+168,Sintonizador de TV,1.331 €,N/A,Different
+169,Preinstalación de teléfono con Bluetooth,913 €,N/A,Different
+170,Muelle suspensión delantera,Resorte helicoidal,Resorte helicoidal,Same
+171,Airbag frontal conductor,De serie,De serie,Same
+172,Función start-stop,N/A,De serie,Different
+173,Shadow Line de brillo intenso BMW Individual,De serie,N/A,Different
+174,Acceso confort (sin llave),1.221 €,N/A,Different
+175,Audi phone box (conexión Bluetooth mediante antena exterior),N/A,Sólo en paquete,Different
+176,Freno de estacionamiento electromecánico,N/A,De serie,Different
+177,"Tapicería de cuero integral ""Merino""",9.495 €,N/A,Different
+178,Faros de xenón,De serie,N/A,Different
+179,Llantas de aleación M 19 (del. 255/40 tras. 285/35) de radios dobles (estilo 167 M) forjadas y pulidas,1.603 €,N/A,Different
+180,Asientos delanteros multifuncionales M,Sólo en paquete,N/A,Different
+181,Alimentación,Inyección Indirecta.,Inyección mixta directa/indirecta. Turbo. Intercooler,Different
+182,Climatizador confort,N/A,De serie,Different
+183,M Drive,De serie,N/A,Different
+184,Neumáticos delanteros,255/40 R19 Z,245/40 R18,Different
+185,Mando de apertura a distancia,De serie,N/A,Different
+186,Mandos multifunción en volante,N/A,De serie,Different
+187,Red en parte posterior de asientos delanteros,N/A,Sólo en paquete,Different
+188,Cambio secuencial SMG II con Drivelogic,De serie,N/A,Different
+189,Tipo de Embrague,N/A,Dos embragues multidisco bañados en aceite,Different
+190,Asientos delanteros M,De serie,N/A,Different
+191,Red sujetaequipajes en el maletero,N/A,Sólo en paquete,Different
+192,Factor de resistencia,"0,7","0,65",Different
+193,Filtro de carbono activo,De serie,N/A,Different
+194,Función Follow Me Home,De serie,N/A,Different
+195,Audi parking system delantero,N/A,Sólo en paquete,Different
+196,Material del bloque,Aluminio,Hierro,Different
+197,Airbag laterales delanteros,De serie,N/A,Different
+198,Caja de cambios,Automático,Automático,Same
+199,Bocina de doble tono,De serie,N/A,Different
+200,Enganche de remolque con bola separable,1.024 €,N/A,Different
+201,Lunas tintadas en verde,De serie,N/A,Different
+202,Volante M de cuero,De serie,N/A,Different
+203,Asistente de frenada,De serie,N/A,Different
+204,Número de velocidades,7,6,Different
+205,price,Precio,Precio,Same
+206,Estructura suspensión delantera,Tipo McPherson,Tipo McPherson,Same
+207,Carrera,"75,2 mm","92,8 mm",Different
+208,Pantalla táctil (MMI touch),N/A,Sólo en paquete,Different
+209,Sintonizador DAB (radio digital),555 €,N/A,Different
+210,2 luces de lectura delanteras,De serie,N/A,Different
+211,Inserciones interiores en aluminio,N/A,De serie,Different
+212,Interfaz USB audio,370 €,N/A,Different
+213,Control de tracción (ASC),De serie,N/A,Different
+214,Control distancia aparcamiento (PDC) trasero,De serie,N/A,Different
+215,Audi Magnetic Ride (amortiguación variable),N/A,De serie,Different
+216,Antibloqueo de frenos (ABS),De serie,De serie,Same
+217,Apoyabrazos central trasero,De serie,N/A,Different
+218,Radio BMW Professional,507 €,N/A,Different
+219,Llantas de aleación de 48 cm - 9 x 19 (245/35) de 5 radios dobles en acabado titanio mate (U06),N/A,1.830 €,Different
+220,Desactivador de airbag del pasajero,N/A,De serie,Different
+221,Capota de lona eléctrica,N/A,De serie,Different
+222,Batalla,2.889 mm,2.505 mm,Different
+223,Franja verde en parabrisas,99 €,N/A,Different
+224,Apertura remota del depósito de combustible,De serie,N/A,Different
+225,2 toberas de lavado de parabrisas calefactables,De serie,N/A,Different
+226,Audi hold assist (arranque cómodo en pendiente),N/A,De serie,Different
+227,Retrovisores exteriores en aluminio,N/A,De serie,Different
+228,Retrovisores exteriores con antideslumbramiento automático,Sólo en paquete,Sólo en paquete,Same
+229,Conexión AUX-In,N/A,De serie,Different
+230,Iluminación adicional del maletero,De serie,N/A,Different
+231,Retrovisores exteriores eléctricos,N/A,De serie,Different
+232,Airbag frontal pasajero,De serie,De serie,Same
+233,Portabebidas delanteros y traseros,De serie,N/A,Different
+234,Tomas 12V delante y detrás,De serie,N/A,Different
+235,Anclajes para asiento infantil ISOFIX en el asiento del acompañante,N/A,De serie,Different
+236,Altavoces HiFi (10 ud.),704 €,N/A,Different
+237,Retrovisores exteriores M en color de carrocería,De serie,N/A,Different
+238,Volante calefactado,308 €,N/A,Different
+239,Precio (con descuento y equipamiento seleccionado),104.400 €,64.670 €,Different
+240,Revoluciones par máximo,6.100 rpm,1.800 - 5.700 rpm,Different
+241,"Iluminación selectiva por cámara, sensores y GPS, luz de curva dinámica, luz para cruces por GPS",N/A,Sólo en paquete,Different
+242,Aceleración 0-100 km/h,"4,7 s","4,9 s",Different
+243,Toma de 12 V en el maletero,N/A,Sólo en paquete,Different
+244,Audi smartphone interface (Android auto y Apple CarPlay),N/A,445 €,Different
+245,Volante deportivo de tres radios achatado en cuero,N/A,De serie,Different
+246,Saco portaesquís,N/A,160 €,Different
+247,IVA,16 %,21 %,Different
+248,"Display 6.5"" en color",De serie,N/A,Different
+249,Vía trasera,1.566 mm,1.553 mm,Different
+250,Número de cilindros,10,4,Different
+251,Asientos traseros abatibles,Sólo en paquete,N/A,Different
+252,Llave de confort (acceso y arranque sin llave),N/A,De serie,Different
+253,Pinzas de freno pintadas en rojo,N/A,405 €,Different
+254,Anclajes ISOFIX en asientos exteriores traseros,De serie,N/A,Different
+255,Pilotos LED traseros,N/A,De serie,Different
+256,Cable USB,N/A,De serie,Different
+257,Carga por inducción para teléfono móvil,N/A,Sólo en paquete,Different
+258,Sensor de luces,N/A,Sólo en paquete,Different
+259,Apertura remota del maletero,De serie,N/A,Different
+260,Filtro de partículas,No,No,Same
+261,Asientos delanteros con ajuste neumático del respaldo,N/A,910 €,Different
+262,"Paquete cuero ampliado (apoyabrazos de puerta, consola central y asideros de puertas en cuero, airbag del volante y parte superior del cuadro de instrumentos en cuero negro) (no con tela tetris)",N/A,De serie,Different
+263,Pintura Amarillo vegas,N/A,415 €,Different
+264,Llantas de aleación de 51 cm - 9 x 20 (255/30) de 5 radios en V (42H),N/A,2.565 €,Different
+265,Red deflectora para el viento (retráctil eléctricamente),N/A,De serie,Different
+266,Aire acondicionado,De serie,De serie,Same
+267,Audi Music Interface,N/A,305 €,Different
+268,Espejos exteriores calefactados,De serie,N/A,Different
+269,Tipo de mecanismo,N/A,Pares de engranajes,Different
+270,Cinturones traseros de 3 puntos,De serie,N/A,Different
+271,Triángulo de emergencia con equipo de primeros auxilios,84 €,N/A,Different
+272,Asiento conductor con ajuste eléctrico de altura,De serie,N/A,Different
+273,Llantas de aleación de 48 cm - 9 x 19 (245/35) de 5 radios dobles (45W),N/A,1.465 €,Different
+274,Revoluciones potencia máxima,7.750 rpm,5.800 - 6.200 rpm,Different
+275,Toma de carga de 5 V en radio y de 12 V en consola delantera,N/A,De serie,Different
+276,Navegación Business,1.899 €,N/A,Different
+277,Elementos decorativos interiores en color plata,N/A,280 €,Different
+278,Sensor de lluvia,De serie,Sólo en paquete,Different
+279,start_year,2008,2015,Different
+280,Elementos decorativos interiores en color antracita,N/A,De serie,Different
+281,Techo de cristal eléctrico,1.529 €,N/A,Different
+282,Autocierre de puertas,789 €,N/A,Different
+283,Asientos traseros con calefacción,457 €,N/A,Different
+284,end_year,2010,2018,Different
+285,Luces autoadaptables,De serie,N/A,Different
+286,Ordenador de viaje,N/A,De serie,Different
+287,Tipo de Carrocería,Turismo,Descapotable,Different
+288,Sonido HiFi Professional LOGIC7 (i/ 13 altavoces),1.591 €,N/A,Different
+289,Intermitentes blancos,De serie,N/A,Different
+290,Cristales antitérmicos,N/A,De serie,Different
+291,Apoyabrazos central delantero,N/A,220 €,Different
+292,Parabrisas con banda solar superior,N/A,De serie,Different
+293,Radio MMI con lector de CD,N/A,De serie,Different
+294,Propósito,Impulsar el vehículo,Impulsar el vehículo,Same
+295,url,https://www.km77.com/coches/bmw/serie-5/2007/berlina/m5/m52/datos,https://www.km77.com/coches/audi/tt/2015/roadster/tts/tts-roadster-20-tfsi-310-cv-quattro-s-tronic/datos,Different
+296,Faros LED (luz de cruce y carretera),N/A,1.490 €,Different
+297,Lector de tarjetas SD,N/A,De serie,Different
+298,Iluminación del abrepuertas interior y compartimento de puerta,De serie,N/A,Different
+299,Sensor de luz para luces de cruce,De serie,N/A,Different
+300,Cajones bajo los asientos delanteros,N/A,Sólo en paquete,Different
+301,Audi Connect (conexión a Internet) (solo con MMI navegación plus),N/A,610 €,Different
+302,Arcos antivuelco fijos detrás de los asientos,N/A,De serie,Different
+303,Vía delantera,1.580 mm,1.572 mm,Different
+304,Apoyabrazos delantero ajustable,De serie,N/A,Different
+305,Tipo de frenos delanteros,Disco ventilado,Disco ventilado,Same
+306,Precio sin impuestos,79.847 €,51.427 €,Different
+307,Molduras de entrada con emblema S,N/A,De serie,Different
+308,Cilindrada,4.999 cm³,1.984 cm³,Different
+309,Pintura sólida,0 €,N/A,Different
+310,Airbag laterales traseros,457 €,N/A,Different
+311,Head Up Display,1.652 €,N/A,Different
+312,Asientos delanteros con regulacion eléctrica,N/A,910 €,Different
+313,Ordenador de a bordo,De serie,N/A,Different
+314,Asistente de luces de carretera smart beam (solo con retrovisor interior con antideslumbramiento aut.),N/A,185 €,Different
+315,Peso,1.855 kg,1.545 kg,Different
+316,Iluminacion en retrovisores exteriores,De serie,N/A,Different
+317,Llantas de aleación de 51 cm - 9 x 20 (255/30) de 10 radios en Y en negro brillante (42G),N/A,2.685 €,Different
+318,Elevalunas eléctricos delanteros,N/A,De serie,Different
+319,Emisiones de CO₂ NEDC,344 gr/km,159 gr/km,Different
+320,Par máximo,520 Nm,380 Nm,Different
+321,Asientos delanteros con calefacción,De serie,430 €,Different
+322,"Llantas de aleación de 46 cm - 8,5 x 18 (245/40) de 10 radios en V (C6C)",N/A,De serie,Different
+323,Coeficiente Cx,"0,31","0,31",Same
+324,Fijación ISOFIX para asiento infantil en asiento delantero acompañante,Sólo en paquete,N/A,Different

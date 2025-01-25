@@ -1,6 +1,7 @@
 import os
 import json
 import pandas as pd
+import matplotlib.pyplot as plt
 
 # Function to list all models (JSON file names) for a given brand
 def list_models(brand_folder):
@@ -34,17 +35,58 @@ def compare_versions(version1, version2):
     table.to_csv("comparative_cars.csv")
     print("\nComparison Table:")
     print(table.to_string(index=False))
+    return table
+
+# Function to clean and convert numeric values
+def parse_numeric(value, default=0):
+    try:
+        # Remove non-numeric characters such as '€' and ','
+        return float(value.replace("€", "").replace(",", ""))
+    except (ValueError, AttributeError):
+        return default
+
+# Function to generate graphs
+def generate_graphs(version1, version2):
+    # Parse "Potencia máxima" and "price"
+    potencia_1 = parse_numeric(version1.get("Potencia máxima", "0").split()[0])
+    potencia_2 = parse_numeric(version2.get("Potencia máxima", "0").split()[0])
+    price_1 = parse_numeric(version1.get("price", "0"))
+    price_2 = parse_numeric(version2.get("price", "0"))
+    
+    # Scatter plot for Potencia máxima vs Price
+    plt.figure(figsize=(10, 5))
+    plt.scatter([1, 2], [potencia_1, potencia_2], label="Potencia máxima", color="blue")
+    plt.scatter([1, 2], [price_1, price_2], label="Price", color="green")
+    plt.xticks([1, 2], ["Car 1", "Car 2"])
+    plt.title("Potencia máxima vs Price")
+    plt.legend()
+    plt.xlabel("Cars")
+    plt.ylabel("Values")
+    plt.grid()
+    plt.savefig("potencia_vs_price.png")
+    plt.show()
+    
+    # Histograms for specified features
+    features = ["Consumo", "Velocidad máxima", "Impuesto de matriculación", "Emisiones de CO₂ NEDC"]
+    data = {
+        "Car 1": {f: parse_numeric(version1.get(f, "0").split()[0]) for f in features},
+        "Car 2": {f: parse_numeric(version2.get(f, "0").split()[0]) for f in features}
+    }
+    
+    for feature in features:
+        plt.figure(figsize=(7, 4))
+        plt.bar(["Car 1", "Car 2"], [data["Car 1"][feature], data["Car 2"][feature]], color=["blue", "orange"])
+        plt.title(feature)
+        plt.ylabel("Value")
+        plt.savefig(f"{feature.replace(' ', '_').lower()}.png")
+        plt.show()
 
 # Main function
 def main():
-    # Root folder containing subfolders for car brands
-    root_folder = "/Users/pablosoto/Desktop/Mioti/Proyecto/scrapper_wallapop/Transformed_data"  # Replace with your actual folder path
-    
-    # Get list of available brands
+    root_folder = "/Users/pablosotogarcia/Desktop/Mioti/Proyecto/scrapper_wallapop/Transformed_data"  # Replace with your actual folder path
     brands = [brand for brand in os.listdir(root_folder) if os.path.isdir(os.path.join(root_folder, brand))]
     print("Available brands:", ", ".join(brands))
     
-    # Prompt user for brand choices
     brand1 = input("¿De qué marca quieres el primer coche? ").strip()
     while brand1 not in brands:
         print("Marca no válida. Por favor, elige entre:", ", ".join(brands))
@@ -55,7 +97,6 @@ def main():
         print("Marca no válida o ya elegida. Por favor, elige entre:", ", ".join([b for b in brands if b != brand1]))
         brand2 = input("¿De qué marca quieres el segundo coche? ").strip()
     
-    # Select models for both brands
     brand1_folder = os.path.join(root_folder, brand1)
     brand1_models = list_models(brand1_folder)
     print(f"Available models for {brand1}: {', '.join(brand1_models)}")
@@ -72,7 +113,6 @@ def main():
         print("Modelo no válido. Por favor, elige entre:", ", ".join(brand2_models))
         model2 = input(f"Choose a model from {brand2}: ").strip()
     
-    # Load JSON data for selected models
     model1_data = load_model_json(brand1_folder, model1)
     model2_data = load_model_json(brand2_folder, model2)
     
@@ -80,7 +120,6 @@ def main():
         print("Error loading data for selected models.")
         return
     
-    # Select versions (motors) for both models
     print(f"Available versions for {brand1}, {model1}:")
     for i, version in enumerate(model1_data["versions"], start=1):
         print(f"{i}. {version['name']}")
@@ -93,9 +132,8 @@ def main():
     version2_choice = int(input("¿Qué motor quieres para tu segundo coche? (Selecciona el número): "))
     version2 = model2_data["versions"][version2_choice - 1]
     
-    # Compare selected versions
-    compare_versions(version1, version2)
-    
+    table = compare_versions(version1, version2)
+    generate_graphs(version1, version2)
 
 if __name__ == "__main__":
     main()
